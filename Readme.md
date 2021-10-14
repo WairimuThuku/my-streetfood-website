@@ -1,23 +1,40 @@
-# My food street website
+# FoodWebsite Project
 
-                                                 ~Lulu Thuku
+##### Lucy Wairimu Thuku
 
-### This website has been carefully crafted to cater for people's need of food who are far from our resturant as well as encourage people within our environs to walk in and dine with us. Sharing a meal with our loved ones and the people around us encourages love.
+### It is a description of my Streetfood website.
 
-### Your TM will review your code for the following objectives:
+## Table of Content
 
-The implementation of HTML concepts is covered so far in this module.
-The project includes a custom-made stylesheet that uses typography styles, cascading, the box model, and floats.
-Code is clean, well-refactored, and easy to read. This includes correct indentation, spacing, and including only necessary comments.
-Commits are made regularly with clear messages that finish the phrase "It will…"
-The project repo contains a README that includes:
-author-name
-project or program name
-description of program
-program setup instructions
-link to the site on GitHub Pages
-copyright and license information
+- [Description](#description)
+- [Installation Requirement](#Installation)
+- [Technology Used](#technology-used)
+- [Reference](#reference)
+- [Licence](#licence)
+- [Authors Info](#author-Info)
 
-## Copyright and license information
+## Description
 
-@ Lulu Thuku
+<p>This is  a website that shows my skills.It contains a landing page of a website built by html and css.</p>
+
+## Installation
+
+### Requirements
+
+- Either a computer,phone,tablet or an Ipad
+
+- An access to the Internet
+
+### Installation Process
+
+[Go Back to the top](#portfolio)
+
+## Technology Used
+
+- HTML - which was used to build the structure of the pages.
+
+- CSS - which was used to style the pages incuding the left aside navigation bar
+
+## Reference
+
+- LMS
